@@ -1,2 +1,3 @@
-# ocr_dyyoo
-ocrTest
+﻿# hyjOcr
+
+
